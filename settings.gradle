@@ -1,0 +1,2 @@
+rootProject.name='FurnBurg'
+include ':app'

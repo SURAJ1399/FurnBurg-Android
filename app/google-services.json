@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "664623396984",
+    "firebase_url": "https://furnburg-447e0.firebaseio.com",
+    "project_id": "furnburg-447e0",
+    "storage_bucket": "furnburg-447e0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:664623396984:android:cf4e68affc76f5f46b958d",
+        "android_client_info": {
+          "package_name": "download.chinmaycreations.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "664623396984-hc4ss8ou7kv5l3s7tmg88s7c4mt7pjvn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLAUF18IJ5aJ2M38v6DOhRe6PzHVQHi7M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "664623396984-hc4ss8ou7kv5l3s7tmg88s7c4mt7pjvn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
